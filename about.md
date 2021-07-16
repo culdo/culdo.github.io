@@ -5,5 +5,5 @@ permalink: /about/
 tags: about
 ---
 
-這個人很懶
+I make a lot of project shared on [my GitHub](https://github.com/culdo), you can check it out!
 
