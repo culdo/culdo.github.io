@@ -11,9 +11,7 @@
 * @license MIT
 */
 
-@media (prefers-color-scheme: light) {
-    @import 'variables';
-}
+@import 'variables';
 
 @media (prefers-color-scheme: dark) {
     @import 'variables';
