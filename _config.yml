@@ -11,7 +11,7 @@ header_pages:
  - contact.html
 
  # Set to "dark" for Dark-mode version
-theme_mode: default
+theme_mode: dark
 
 # Google services
 google_verification:
