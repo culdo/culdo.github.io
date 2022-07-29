@@ -1,8 +1,8 @@
 /*! Pixyll Dark mode is enabled. */
 
 // Base
-$base-font-color: $light-blue;
-$base-bg-color: $darker-blue;
+$base-font-color: $light-gray;
+$base-bg-color: $dark-gray;
 
 // Links
 $link-color: $blue;
@@ -38,24 +38,24 @@ $hljs-chunk: $dark-blue;
 
 // Header
 $header-border-top: thin solid $light-gray;
-$header-color: $light-blue;
+$header-color: $light-gray;
 
 // Nav
-$nav-color: $light-blue;
-$nav-link-color: $light-blue;
-$nav-link-border-bottom: 2px solid $light-blue;
-$nav-active-border-bottom: 1px solid $blue;
+$nav-color: $light-gray;
+$nav-link-color: $light-gray;
+$nav-link-border-bottom: 2px solid $light-gray;
+$nav-active-border-bottom: 1px solid $gray;
 
 // Footer
 $footer-color: $base-font-color;
 $footer-bg-color: $base-bg-color;
 
 // Posts
-$post-link-color: $blue;
-$post-meta-color: $light-blue;
+$post-link-color: $gray;
+$post-meta-color: $light-gray;
 
 // Pagination
-$pagination-link-color: $light-blue;
-$pagination-link-hover-color: lighten($light-blue, 40%);
-$pagination-background-color: $darker-blue;
-$pagination-hover-background-color: lighten($darker-blue, 40%);
+$pagination-link-color: $nav-link-color;
+$pagination-link-hover-color: lighten($light-gray, 40%);
+$pagination-background-color: $darker-gray;
+$pagination-hover-background-color: lighten($darker-gray, 40%);
