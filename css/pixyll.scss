@@ -11,13 +11,18 @@
 * @license MIT
 */
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
     @import 'variables';
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
+    @import 'variables';
+
+    {% if site.theme_mode == "dark" %}
     @import 'dark-mode';
+    {% endif %}
 }
+
 
 @import 'basscss';
 
