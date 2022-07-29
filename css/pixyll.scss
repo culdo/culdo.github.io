@@ -14,7 +14,6 @@
 @import 'variables';
 
 @media (prefers-color-scheme: dark) {
-    @import 'variables';
 
     {% if site.theme_mode == "dark" %}
     @import 'dark-mode';
