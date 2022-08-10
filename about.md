@@ -5,5 +5,5 @@ permalink: /about/
 tags: about
 ---
 
-I make a lot of project shared on [my GitHub](https://github.com/culdo), you can check it out!
+I make a lot of projects shared on [my GitHub](https://github.com/culdo), you can check it out!
 
